@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Yk-Ymzbj)
 | Name           | NRP        | Kelas     |
 | ---            | ---        | ----------|
-| Fadhiil Hanif Rizqullah | 5025221144 | Jaringan Komputer (B) |
-| Kaylan Fairuza Aqila | 5025231092 | Jaringan Komputer (B) |
+| Ganti Tay | 5025221 | Jaringan Komputer (A) |
+| Faiq Lidan Baihaqi | 5025221294 | Jaringan Komputer (A) |
 
 ## Task 1
 
